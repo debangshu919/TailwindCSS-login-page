@@ -54,10 +54,6 @@ This project is licensed under the MIT License.
 Created by Debangshu.
 
 ## Links
-- **Live Demo:**
-```bash
-[Insert link here if hosted online]
-```
 - **GitHub Repository:**
 ```bash
 https://github.com/itz-me-debangshu/authentication-page-using-HTML-and-Tailwind-CSS
