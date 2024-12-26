@@ -37,7 +37,7 @@ This repository contains a simple and responsive Login and Signup page designed 
    cd src
    ```
 
-3. Open `signup.html` or `login.html` in your favorite browser to view the pages.
+3. Open `index.html` in your favorite browser to view the pages.
 
 ## How to use
 - **Download or clone the repository.**
