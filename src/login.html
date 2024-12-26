@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Signup</title>
+    <link rel="stylesheet" href="../dist/style.css" />
+  </head>
+  <body class="">
+    <section class="flex w-full h-screen">
+      <div
+        id="ContentBx"
+        class="flex justify-center items-center z-10 w-full h-full md:w-1/2 md:z-0 X"
+      >
+        <div
+          id="FormBox"
+          class="w-full p-8 bg-white m-10 rounded-2xl md:w-1/2 md:p-0 md:m-0 md:rounded-none border-2 border-solid border-blue-950 md:border-none opacity-90 md:opacity-100"
+        >
+          <h2
+            class="text-blue-950 font-bold text-4xl uppercase mb-10 border-b-4 border-solid border-orange-800 inline-block tracking-tighter"
+          >
+            Login
+          </h2>
+
+          <div id="InputBox">
+            <span class="text-blue-950 mt-5 mb-1 text-lg inline-block font-bold"
+              >Username</span
+            >
+            <input
+              type="text"
+              placeholder="username"
+              required
+              class="w-full mt-0 mb-2.5 px-2.5 py-2.5 outline-none font-normal border border-solid border-blue-950 text-base tracking-wider rounded-full text-orange-700 placeholder:font-light placeholder:text-gray-500 placeholder:text-lg placeholder:tracking-tighter focus:border-4 focus:border-orange-700 hover:border-orange-700"
+            />
+          </div>
+          <div id="InputBox">
+            <span class="text-blue-950 mt-5 mb-1 text-lg inline-block font-bold"
+              >Password</span
+            >
+            <input
+              type="password"
+              placeholder="password"
+              required
+              class="w-full mt-0 mb-2.5 px-2.5 py-2.5 outline-none font-normal border border-solid border-blue-950 text-base tracking-wider rounded-full text-orange-700 placeholder:font-light placeholder:text-gray-500 placeholder:text-lg placeholder:tracking-tighter focus:border-4 focus:border-orange-700 hover:border-orange-700"
+            />
+          </div>
+          <div
+            id="remember"
+            class="p-0 mb-5 font-semibold text-lg text-gray-700 flex justify-left"
+          >
+            <label> <input type="checkbox" /> Remember me</label>
+          </div>
+          <div id="SubmitBtn">
+            <input
+              type="button"
+              value="Login"
+              class="w-full my-2.5 mt-10 px-2.5 py-2.5 bg-orange-700 outline-none font-extrabold border-none cursor-pointer tracking-tighter rounded-full text-white text-2xl hover:bg-orange-800"
+            />
+          </div>
+          <div id="redirect" class="flex justify-center">
+            <p
+              class="text-blue-950 mt-2.5 mb-1 text-lg inline-block font-semibold"
+            >
+              Don't have an account?
+              <a
+                href="./signup.html"
+                class="text-orange-700 font-bold hover:border-b-2 hover:border-orange-700"
+                >Sign Up</a
+              >
+              here.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        id="ImgBx"
+        class="absolute md:relative w-full h-full md:w-1/2 md:top-0 md:left-0"
+      >
+        <img
+          src="https://images.unsplash.com/photo-1556139954-ec19cce61d61?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          class="absolute top-0 left-0 w-full h-full object-cover"
+        />
+      </div>
+    </section>
+  </body>
+</html>
