@@ -1,4 +1,4 @@
-# HTML Login and Signup Page using Tailwind CSS  
+# Login and Signup Page using Tailwind CSS  
 
 This repository contains a simple and responsive Login and Signup page designed using **Tailwind CSS**. The pages are styled to provide a modern and user-friendly interface.  
 
