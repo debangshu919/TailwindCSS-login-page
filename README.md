@@ -29,7 +29,7 @@ This repository contains a simple and responsive Login and Signup page designed 
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/itz-me-debangshu/login-signup-page-using-TailwindCSS.git
+   git clone https://github.com/debangshu919/login-signup-page-using-TailwindCSS.git
    ```
 
 2. Navigate to the `src` folder:
@@ -56,5 +56,5 @@ Created by Debangshu.
 ## Links
 - **GitHub Repository:**
 ```bash
-https://github.com/itz-me-debangshu/login-signup-page-using-TailwindCSS
+https://github.com/debangshu919/login-signup-page-using-TailwindCSS
 ```
