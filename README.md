@@ -26,23 +26,6 @@ This repository contains a simple and responsive Login and Signup page designed 
 - **HTML5**  
 - **Tailwind CSS**  
 
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/debangshu919/login-signup-page-using-TailwindCSS.git
-   ```
-
-2. Navigate to the `src` folder:
-   ```bash
-   cd src
-   ```
-
-3. Open `index.html` in your favorite browser to view the pages.
-
-## How to use
-- **Download or clone the repository.**
-- **Customize the HTML and Tailwind classes as needed.**
-- **Use it as a starting point for your projects.**
 
 ## Contributions
 Feel free to submit issues and feature requests. Contributions are always welcome!
@@ -56,5 +39,7 @@ Created by Debangshu.
 ## Links
 - **GitHub Repository:**
 ```bash
-https://github.com/debangshu919/login-signup-page-using-TailwindCSS
+https://github.com/debangshu919/TailwindCSS-login-page
 ```
+- **Deployed at:**
+> https://tailwind-css-login-page.vercel.app/
